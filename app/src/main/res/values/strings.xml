@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="um">Rolar 1 dado</string>
+    <string name="dois">Rolar 2 dados</string>
+    <string name="tres">Rolar 3 dados</string>
+    <string name="rolar">Rolar</string>
+    <string name="resultado">Resultado: </string>
+</resources>
